@@ -91,11 +91,11 @@ Seriously though, this thing works for me?
 
 - increments
 
-.image incr_graph.png _ 700
+.image incr_graph.png _ 680
 
 - times
 
-.image timing_graph.png _ 700
+.image timing_graph.png _ 680
 
 * another case study: distributed-stats-storage 
 
@@ -140,11 +140,9 @@ Seriously though, this thing works for me?
 - does the website work?
 - were users affected?
 
-.image fail_whale.png _ 900
+.image fail_whale.png _ 800
 
 *    
-
-.image videoapp_api_dashboard.png _ 900
 
 * the development experience
 
