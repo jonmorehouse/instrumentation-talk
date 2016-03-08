@@ -111,14 +111,14 @@ Seriously though, this thing works for me?
 
 .image giphy_oh_my.png _ 1200
 
-* what we really care about
+* what is important:
 
 - did the data get where it was supposed too?
 - how much of the data is there?
 - were things faster / slower than usual?
 - how does this compare to last week, last month?
 
-* what we _shouldn't_ care about
+* what isn't important
 
 - cpu
 - memory
@@ -138,7 +138,7 @@ Seriously though, this thing works for me?
 - does the website work?
 - were users affected?
 
-.image fail_whale.png
+.image fail_whale.png _ 1100
 
 * the development experience
 
@@ -150,13 +150,10 @@ Seriously though, this thing works for me?
 
 * Some final thoughts 
 
+- make sure anyone can debug your system at 3am
 - instrumentation, for the greater good
-- build better graphs
-- share better graphs
-
-- Reading 
-
-* last slide
-.code statsd.py
+- build better dashboards
+- share better dashboards
+- anyone can build dashboards!
 
 
