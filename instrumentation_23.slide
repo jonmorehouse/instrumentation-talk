@@ -46,7 +46,6 @@ Seriously though, this thing works for me?
 
 * What if you could?
 
-
 - define "broken"
 - define "working"
 - help, without knowing the system
@@ -123,7 +122,7 @@ Seriously though, this thing works for me?
 - individual processes
 - individual hosts
 
-*    
+* distributed stats storage dashboard
 
 .image distributed_stats_dashboard.png _ 1000
 
@@ -135,14 +134,12 @@ Seriously though, this thing works for me?
 
 .image giphy_who_built_this.png _ 900
 
-* Outcome Oriented
 
-- does the website work?
-- were users affected?
+* the 3am test
+
+If someone gets woken up by the fail whale at 3am, can they debug your system?
 
 .image fail_whale.png _ 800
-
-*    
 
 * the development experience
 
@@ -154,10 +151,9 @@ Seriously though, this thing works for me?
 
 * Some final thoughts 
 
-- make sure anyone can debug your system at 3am
 - instrumentation, for the greater good
+- systems must pass the "3am" test
 - build better dashboards
 - share better dashboards
-- anyone can build dashboards!
-
+- dashboards are for everyone
 
