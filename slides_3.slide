@@ -102,6 +102,10 @@ Seriously though, this thing works for me?
 
 .image  images/timing_graph.png _ 680
 
+* rad!!!!
+
+.image images/emoji_tears_of_joy.png _ 500
+
 * another case study: distributed-stats-storage 
 
 - a highly, distributed system
@@ -163,7 +167,7 @@ If someone gets woken up by the fail whale at 3am, can they debug your system?
 * the alerting experience
 
 - good metrics == good alerts
-- only wake folks up when something is actually broken
+- only wake folks up when something is _actually_ broken
 - everyone and anyone can respond
 
 * Some final thoughts 
