@@ -13,6 +13,7 @@ A case study:
 - 40thousand-ish lines of python
 - 12+ different types of workers
 - collection, rollups, api-integrations, dashboards 
+- able to think for itself
 
 * VideoStats is broken!
 
@@ -22,7 +23,7 @@ A case study:
 
 .image videostats_flower.png _ 1000
 
-* and we have logs!
+* and logs!
 
 .image videostats_logs.png
 
