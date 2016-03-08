@@ -49,7 +49,8 @@ Seriously though, this thing works for me?
 
 - define "broken"
 - define "working"
-- didn't have to build this system
+- help, without knowing the system
+- help, without firing off random (dangerous?) `*sh` commands
 - help, without being an engineer
 
 .image giphy_dreaming.png _ 1000
@@ -90,11 +91,15 @@ Seriously though, this thing works for me?
 
 * what sorts of metrics?
 
-- increments
-- times
-- gauges
-
 .link https://github.com/etsy/statsd/blob/master/docs/metric_types.md metric types
+
+- increments
+
+.image incr_graph.png
+
+- times
+
+.image timing_graph_graph.png
 
 * another case study: distributed-stats-storage 
 
@@ -142,6 +147,7 @@ Action oriented instrumentation is logging/monitoring for distributed systems
 
 * Some final thoughts 
 
+- instrumentation, for the greater good
 - build better graphs
 - share better graphs
 
