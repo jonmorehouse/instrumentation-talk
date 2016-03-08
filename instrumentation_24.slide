@@ -2,13 +2,13 @@ Instrumentation
 action oriented monitoring
 
 Jon Morehouse
-obsessed with computers
-@buzzfeed
+a computer obsessed geek
 @jonmorehouse
+@buzzfeed
 
-* Video Stats
+* Let's start with a case study
 
-A case study:
+* VideoStats
 
 - 40thousand-ish lines of python
 - 12+ different types of workers
@@ -48,9 +48,9 @@ Seriously though, this thing works for me?
 
 - define "broken"
 - define "working"
-- help, without knowing the system
-- help, without firing off random (dangerous?) `*sh` commands
-- help, without being an engineer
+- debug, without knowing the system
+- debug, without firing off random (dangerous?) `*sh` commands
+- debug, without being an engineer
 
 .image giphy_dreaming.png _ 1000
 
@@ -128,9 +128,9 @@ Seriously though, this thing works for me?
 
 * Distributed Systems require instrumentation
 
-- more service
-- more places to break
-- no more "experts"
+- more things that can break
+- no one knows everything
+- the code doesn't tell the whole story
 
 .image giphy_who_built_this.png _ 900
 
