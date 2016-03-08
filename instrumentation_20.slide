@@ -91,11 +91,11 @@ Seriously though, this thing works for me?
 
 - increments
 
-.image incr_graph.png _ 800
+.image incr_graph.png _ 700
 
 - times
 
-.image timing_graph.png _ 800
+.image timing_graph.png _ 700
 
 * another case study: distributed-stats-storage 
 
@@ -125,7 +125,7 @@ Seriously though, this thing works for me?
 
 *    
 
-.image distributed_stats_stats_dashboard.png _ 1200
+.image distributed_stats_dashboard.png _ 1200
 
 * Distributed Systems require instrumentation
 
@@ -133,7 +133,7 @@ Seriously though, this thing works for me?
 - more places to break
 - no more "experts"
 
-.image giphy_who_built_this.png _ 1100
+.image giphy_who_built_this.png _ 900
 
 * Outcome Oriented
 
