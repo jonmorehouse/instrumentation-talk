@@ -109,7 +109,7 @@ Seriously though, this thing works for me?
 
 .image giphy_oh_my.png _ 1200
 
-* what is important:
+* what is important
 
 - did the data get where it was supposed too?
 - how much of the data is there?
@@ -125,7 +125,7 @@ Seriously though, this thing works for me?
 
 *    
 
-.image distributed_stats_dashboard.png _ 1200
+.image distributed_stats_dashboard.png _ 1000
 
 * Distributed Systems require instrumentation
 
@@ -140,11 +140,11 @@ Seriously though, this thing works for me?
 - does the website work?
 - were users affected?
 
-.image fail_whale.png _ 1100
+.image fail_whale.png _ 900
 
 *    
 
-.image videoapp_api_dashboard.png _ 1100
+.image videoapp_api_dashboard.png _ 900
 
 * the development experience
 
