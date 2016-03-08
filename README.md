@@ -1,5 +1,6 @@
-# Instrumentation
-A talk on instrumentation at BuzzFeed.
+# Instrumentation - defining success and failure in distributed systems
+
+A tech talk I am giving at BuzzFeed on March 8th 2016.
 
 ## Overview
 
