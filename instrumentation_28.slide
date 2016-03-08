@@ -15,19 +15,19 @@ a computer obsessed geek
 - collection, rollups, api-integrations, dashboards 
 - able to think for itself
 
-.images images/videostats.png _ 500
+.image  images/videostats.png _ 500
 
 * VideoStats is broken!
 
-.images images/giphy_broken.png
+.image  images/giphy_broken.png
 
 * but we have monitoring!
 
-.images images/videostats_flower.png _ 1000
+.image  images/videostats_flower.png _ 1000
 
 * and logs!
 
-.images images/debugging_videostats.png
+.image  images/debugging_videostats.png
 
 * so what's the problem??
 
@@ -42,7 +42,7 @@ a computer obsessed geek
 * wait ... what is even broken guys?
 
 
-.images images/giphy_nonsense.png _ 1200
+.image  images/giphy_nonsense.png _ 1200
 
 Seriously though, this thing works for me?
 
@@ -54,21 +54,21 @@ Seriously though, this thing works for me?
 - debug, without firing off random (dangerous?) `*sh` commands
 - debug, without being an engineer
 
-.images images/giphy_dreaming.png _ 1000
+.image  images/giphy_dreaming.png _ 1000
 
 * Graphs and dashboards
 
-.images images/single_graph.png _ 550
+.image  images/single_graph.png _ 550
 
-.images images/dashboard.png _ 1000
+.image  images/dashboard.png _ 1000
 
 * 
 
-.images images/giphy_awesome.png _ 1200
+.image  images/giphy_awesome.png _ 1200
 
 * enter ... statsd
 
-.images images/statsd.png _ 1000
+.image  images/statsd.png _ 1000
 
 * what is statsd?
 
@@ -77,7 +77,7 @@ Seriously though, this thing works for me?
 - a way to write stats to other upstream systems
 - simple!!!
 
-.images images/statsd_simple.png
+.image  images/statsd_simple.png
 
 * what is datadog?
 
@@ -86,17 +86,17 @@ Seriously though, this thing works for me?
 - shareable, collaborative, informative
 - simple, accessible and helpful for everyone
 
-.images images/datadog.png
+.image  images/datadog.png
 
 * what sorts of metrics?
 
 - increments
 
-.images images/incr_graph.png _ 680
+.image  images/incr_graph.png _ 680
 
 - times
 
-.images images/timing_graph.png _ 680
+.image  images/timing_graph.png _ 680
 
 * another case study: distributed-stats-storage 
 
@@ -108,7 +108,7 @@ Seriously though, this thing works for me?
 
 *     
 
-.images images/giphy_oh_my.png _ 1200
+.image  images/giphy_oh_my.png _ 1200
 
 * what is important
 
@@ -126,7 +126,7 @@ Seriously though, this thing works for me?
 
 * distributed stats storage dashboard
 
-.images images/distributed_stats_dashboard.png _ 1000
+.image  images/distributed_stats_dashboard.png _ 1000
 
 * Distributed Systems require instrumentation
 
@@ -134,14 +134,14 @@ Seriously though, this thing works for me?
 - no one knows everything
 - the code doesn't tell the whole story
 
-.images images/giphy_who_built_this.png _ 900
+.image  images/giphy_who_built_this.png _ 900
 
 
 * the 3am test
 
 If someone gets woken up by the fail whale at 3am, can they debug your system?
 
-.images images/fail_whale.png _ 800
+.image  images/fail_whale.png _ 800
 
 * the development experience
 
@@ -149,7 +149,7 @@ If someone gets woken up by the fail whale at 3am, can they debug your system?
 - _not_ an after thought
 - part of the review process
 
-.images images/statsd_comment.png
+.image  images/statsd_comment.png
 
 * Some final thoughts 
 
