@@ -1,5 +1,5 @@
 Instrumentation 
-action oriented monitoring
+outcome oriented monitoring
 
 Jon Morehouse
 a computer obsessed geek
@@ -110,6 +110,12 @@ Seriously though, this thing works for me?
 
 .image  images/giphy_oh_my.png _ 1200
 
+* outcome oriented monitoring
+
+- does the website work?
+- does the system do what it's supposed to?
+- are user's being affected?
+
 * what is important
 
 - did the data get where it was supposed too?
@@ -121,8 +127,8 @@ Seriously though, this thing works for me?
 
 - cpu
 - memory
-- individual processes
-- individual hosts
+- any individual process
+- any individual host
 
 * distributed stats storage dashboard
 
