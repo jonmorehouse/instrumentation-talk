@@ -91,15 +91,13 @@ Seriously though, this thing works for me?
 
 * what sorts of metrics?
 
-.link https://github.com/etsy/statsd/blob/master/docs/metric_types.md metric types
-
 - increments
 
 .image incr_graph.png _ 500
 
 - times
 
-.image timing_graph_graph.png _ 500
+.image timing_graph.png _ 500
 
 * another case study: distributed-stats-storage 
 
@@ -109,11 +107,11 @@ Seriously though, this thing works for me?
 - dependency to many other systems
 - lots of teams involved
 
-* _
+*     
 
-.image giphy_oh_my.png
+.image giphy_oh_my.png _ 1200
 
-* what we _really_ care about
+* what we really care about
 
 - did the data get where it was supposed too?
 - how much of the data is there?
@@ -133,16 +131,20 @@ Seriously though, this thing works for me?
 - more places to break
 - no more "experts"
 
+.image giphy_who_built_this.png _ 1100
+
 * Outcome Oriented
 
 - does the website work?
 - were users affected?
 
-* Part of the development experience
+.image fail_whale.png
 
-- instrumentation is _not_ an afterthought
-- instrumentation from day 1
-- instrumentation is reviewable
+* the development experience
+
+- part of planning, speccing, scoping
+- _not_ an after thought
+- part of the review process
 
 .image statsd_comment.png
 
