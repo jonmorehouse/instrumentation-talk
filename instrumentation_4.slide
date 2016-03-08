@@ -49,16 +49,18 @@ Seriously though, this thing works for me?
 - didn't have to build this system
 - didn't even need to be an engineer to help!
 
-.image giphy_keep_dreaming.png _ 700
+.image giphy_keep_dreaming.png _ 1200
 
+* Not kidding
 
-(this isn't a great dashboard, we'll get into that later)
+.image giphy_awesome.png _ 1200
 
 * enter ... statsd
 
 .image statsd.png _ 1000
 
 
+(this isn't a great dashboard, we'll get into that later)
 
 * last slide
 .code statsd.py
