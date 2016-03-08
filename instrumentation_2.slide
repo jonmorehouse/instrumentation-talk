@@ -1,0 +1,70 @@
+Instrumentation 
+> action oriented monitoring
+
+Jon Morehouse
+playing with komputers \@buzzfeed
+@jonmorehouse
+
+
+* Video Stats
+
+A case study:
+
+- 40thousand-ish lines of python
+- 12+ different types of workers
+- stat rollups, fetch tasks, web ui, apis etc etc
+
+* VideoStats is broken 
+
+.image videostats_broken.png
+
+* but we have monitoring!
+
+.image videostats_flower.png
+
+* and we have logs!
+
+.image videostats_logs.png
+
+* so what's the problem
+
+.code videostats_debugging.sh
+
+* What if you ...
+
+- didn't build this system?
+- don't know anything about this system?
+- don't know where logs are?
+- don't have access to this system?
+
+* wait ... what is even broken guys?
+
+Seriously though, this thing works for me?
+
+
+* What if you could?
+
+<blank line>
+<blank line>
+- define "broken"
+- define "working"
+- figure out what is broken in a single dashboard
+
+
+.image giphy_keep_dreaming.png _ 700
+
+.image videostats_broken.png _ 500
+
+(this isn't a great dashboard, we'll get into that later)
+
+* enter ... statsd
+
+.image statsd.png _ 800
+
+
+
+
+
+.code statsd.py
+
+
