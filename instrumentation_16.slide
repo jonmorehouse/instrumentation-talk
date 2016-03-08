@@ -115,12 +115,10 @@ Seriously though, this thing works for me?
 
 * what we _really_ care about
 
-- what data went where
-- how much data / hour
-- how does this compare to yesterday, this week, this year?
-- how many failures
-- did things slow down?
-- how many requests dropped
+- did the data get where it was supposed too?
+- how much of the data is there?
+- were things faster / slower than usual?
+- how does this compare to last week, last month?
 
 * what we _shouldn't_ care about
 
@@ -129,19 +127,22 @@ Seriously though, this thing works for me?
 - individual processes
 - individual hosts
 
-* action oriented
+* Distributed Systems require instrumentation
 
-Action oriented instrumentation is logging/monitoring for distributed systems
+- more service
+- more places to break
+- no more "experts"
 
-- does our website work?
-- are users experiencing data inaccuracies?
-- are users experiencing outages?
+* Outcome Oriented
 
-* instrumentation as part of the development process
+- does the website work?
+- were users affected?
+
+* Part of the development experience
 
 - instrumentation is _not_ an afterthought
-- instrumentation is part of planning and development
-- instrumentation is a key part of code review
+- instrumentation from day 1
+- instrumentation is reviewable
 
 .image statsd_comment.png
 
