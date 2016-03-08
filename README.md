@@ -1,4 +1,4 @@
-# Instrumentation - defining success and failure in distributed systems
+# Instrumentation - outcome oriented monitoring
 
 A tech talk I am giving at BuzzFeed on March 8th 2016.
 

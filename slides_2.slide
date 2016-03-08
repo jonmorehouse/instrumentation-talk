@@ -31,6 +31,12 @@ a computer obsessed geek
 
 * so what's the problem??
 
+* wait ... what is even broken guys?
+
+.image  images/giphy_nonsense.png _ 1200
+
+Seriously though, this thing works for me?
+
 * What if you ...
 
 - didn't build this system?
@@ -39,12 +45,6 @@ a computer obsessed geek
 - don't have access to this system?
 - don't know what is even broken?
 
-* wait ... what is even broken guys?
-
-
-.image  images/giphy_nonsense.png _ 1200
-
-Seriously though, this thing works for me?
 
 * What if you could?
 
@@ -74,15 +74,19 @@ Seriously though, this thing works for me?
 
 - a stats protocol
 - an aggregator of stats
-- a way to write stats to other upstream systems
+- a way to declare success/failure
 - simple!!!
 
 .image  images/statsd_simple.png
 
+* just a few lines of code...
+
+.code samples/statsd.py
+
 * what is datadog?
 
-- a statsd backend and more ..
-- visual UI for metrics
+- a statsd backend
+- graphs and dashboards for our metrics
 - shareable, collaborative, informative
 - simple, accessible and helpful for everyone
 
@@ -156,11 +160,15 @@ If someone gets woken up by the fail whale at 3am, can they debug your system?
 
 .image  images/github_comments.png _ 920
 
+* the alerting experience
+
+- good metrics == good alerts
+- only wake folks up when something is actually broken
+- everyone and anyone can respond
+
 * Some final thoughts 
 
 - instrumentation, for the greater good
 - systems must pass the "3am" test
-- build better dashboards
-- share better dashboards
-- dashboards are for everyone
-
+- build better dashboards (together)
+- everyone can take responsibility
