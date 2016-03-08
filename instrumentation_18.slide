@@ -76,13 +76,11 @@ Seriously though, this thing works for me?
 - a way to write stats to other upstream systems
 - simple!!!
 
-.link https://github.com/etsy/statsd statsd
-
 .image statsd_simple.png
 
 * what is datadog?
 
-- a statsd backend + more 
+- a statsd backend and more ..
 - visual UI for metrics
 - shareable, collaborative, informative
 - simple, accessible and helpful for everyone
@@ -93,11 +91,11 @@ Seriously though, this thing works for me?
 
 - increments
 
-.image incr_graph.png _ 500
+.image incr_graph.png _ 800
 
 - times
 
-.image timing_graph.png _ 500
+.image timing_graph.png _ 800
 
 * another case study: distributed-stats-storage 
 
@@ -125,6 +123,10 @@ Seriously though, this thing works for me?
 - individual processes
 - individual hosts
 
+*    
+
+.image distributed_stats_stats_dashboard.png _ 1200
+
 * Distributed Systems require instrumentation
 
 - more service
@@ -139,6 +141,10 @@ Seriously though, this thing works for me?
 - were users affected?
 
 .image fail_whale.png _ 1100
+
+*    
+
+.image videoapp_api_dashboard.png _ 1100
 
 * the development experience
 
