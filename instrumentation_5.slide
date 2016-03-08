@@ -1,5 +1,5 @@
 Instrumentation 
-> action oriented monitoring
+action oriented monitoring
 
 Jon Morehouse
 playing with komputers \@buzzfeed
@@ -12,21 +12,21 @@ A case study:
 
 - 40thousand-ish lines of python
 - 12+ different types of workers
-- stat rollups, fetch tasks, web ui, apis etc etc
+- collection, rollups, api-integrations, dashboards 
 
-* VideoStats is broken 
+* VideoStats is broken!
 
-.image videostats_broken.png
+.image giphy_broken.png
 
 * but we have monitoring!
 
-.image videostats_flower.png _ 700
+.image videostats_flower.png _ 1000
 
 * and we have logs!
 
 .image videostats_logs.png
 
-* so what's the problem
+* so what's the problem??
 
 * What if you ...
 
@@ -37,9 +37,10 @@ A case study:
 
 * wait ... what is even broken guys?
 
-Seriously though, this thing works for me?
 
 .image giphy_nonsense.png _ 1200
+
+Seriously though, this thing works for me?
 
 * What if you could?
 
