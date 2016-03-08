@@ -25,7 +25,7 @@ A case study:
 
 * and logs!
 
-.image debugging_videostats.png _ 1000
+.image debugging_videostats.png
 
 * so what's the problem??
 
@@ -56,9 +56,9 @@ Seriously though, this thing works for me?
 
 * Graphs and dashboards
 
-.image bad_dashboard.png
+.image bad_dashboard.png _ 1000
 
-* Not kidding
+**Not kidding
 
 .image giphy_awesome.png _ 1200
 
